@@ -1,5 +1,8 @@
+#Global settings
+encoding: "utf-8"
+
 # Site settings
-title: Your awesome title
+title: Ran Say What
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
